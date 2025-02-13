@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+*.exe
+*.msi
+*.lnk
+*.zip
+*.pdf
+*.docx
+*.pptx
+AppData/
+Downloads/
+Contacts/
+Documents/
+Videos/
